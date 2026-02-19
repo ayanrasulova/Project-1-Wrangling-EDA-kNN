@@ -1,2 +1,3 @@
 # Project-1-Wrangling-EDA-kNN
-ML
+
+Ayan, Emilie, Adrian, Ruizhang, William
